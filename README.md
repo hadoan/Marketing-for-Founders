@@ -68,5 +68,32 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [Social Listening: Identifying High-Intent Mentions to Grow Your SaaS](https://www.mrrunlocked.com/p/social-listening-guide)
 - [Sample set-up from Simple Analytics](https://1millionarr.substack.com/p/part-1-how-to-get-your-first-100)
 - [F5 bot](https://f5bot.com/) free tool to track mentions on Hacker News and Reddit
-- [BOFU Keyword Ideas]() to brainstorm keywords to track
+- [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) to brainstorm keywords to track
+
+## Sales & Cold Outreach
+Most people hate cold outreach and everything connected with direct sales. Yes, depending on your approach, it might be hard to scale and time-intensive, but cold emails and DMs are the most straightforward way to get in touch with potential users and collect precious early-stage feedback.
+
+So, how can you find people on target? What should you write in your messages? And how can you scale cold outreach?
+Here are a few ideas:
+- [The Ultimate Framework to build your Ideal Customer Profile](https://www.mrrunlocked.com/p/framework-ideal-customer-profile)
+- [Before there is Ideal, there is Early (Customer Profile)](https://knowledge.gtmstrategist.com/p/before-there-is-ideal-there-is-early)
+- [How to do startup sales with no experience](https://posthog.com/founders/startup-sales-strategy)
+- [The privacy policy secret to find your competitor’s customers](https://www.marketingideas.com/p/how-to-find-your-competitors-customers)
+- [A bulletproof way to acquire more customers: ‘Brute Force Marketing’](https://www.marketingideas.com/p/a-bulletproof-way-to-acquire-more)
+- [The Cold Outbound Handbook](https://www.za-zu.com/handbook/intro)
+- [The ultimate guide to setting up a cold email growth system](https://coldstartblueprint.com/p/cold-email-setup)
+- [The cold email that started ConvertKit](https://x.com/natiakourdadze/status/1799848364042854856)
+- [Tally's early-stage DM strategy](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F539f6356-1e1e-4e84-90c5-57db187e532d_1600x981.png) - you can find the full story [here](https://knowledge.gtmstrategist.com/p/tallys-bootstrapped-journey-to-500000-users)
+- [Sales emails examples from top companies](https://goodsalesemails.com/)
+- [Got saas clients doing this strategy](https://www.reddit.com/r/SaaS/comments/1jnlllj/got_saas_clients_doing_this_strategy_so_i_turned/)
+- [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
+- [The $1,000 cold email alternative that's breaking B2B sales](https://www.marketingideas.com/p/the-1000-cold-email-alternative-thats)
+
+## SEO
+Should you focus on SEO in the early days of your startup? Probably not, SEO takes time (and backlinks), but this doesn’t mean you should neglect it either.
+
+SEO is the foundation for many startups, and it can get you a steady source of traffic without having to spend anything other than the time to do it.
+
+These guides and tips will help you get started:
+
 
