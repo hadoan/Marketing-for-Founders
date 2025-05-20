@@ -30,11 +30,15 @@ Launch platforms:
 
 Software directories:
 - [Toolfolio](https://toolfolio.io/)
+- [toools.design](https://www.toools.design/)
 - [OpenAlternative](https://openalternative.co/)
 - [SaaSHub](https://www.saashub.com/)
+- [SaaS Genius](https://www.saasgenius.com/free-listing)
 - [G2](https://www.g2.com/)
 - [TrustPilot](https://www.trustpilot.com/)
 - [Capterra](https://www.capterra.com/)
+- [There's an ai for that](https://theresanaiforthat.com/)
+- [Alternativeto](https://alternativeto.net/)
 
 Lifetime deals platforms & groups:
 - [AppSumo](https://appsumo.com/)
@@ -50,8 +54,15 @@ Subreddits (always check the rules before posting anything):
 - [Sideproject](https://www.reddit.com/r/SideProject/)
 - [Selfhosted](https://www.reddit.com/r/selfhosted/)
 - [Webdev](https://www.reddit.com/r/webdev/)
+- [Startup_Ideas](https://www.reddit.com/r/Startup_Ideas/)
+- [Programming](https://www.reddit.com/r/programming/)
+- [Internetisbeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+- [Roastmystartup](https://www.reddit.com/r/roastmystartup/)
+- [Alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/)
+- [Startups](https://www.reddit.com/r/startups/)
+- [EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)
 
-**PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks Sandra) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).
+**PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).
 
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
 
