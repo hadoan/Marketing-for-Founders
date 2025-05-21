@@ -14,7 +14,7 @@ This is why you’ll find here a practical collection of tips, resources, and so
 
 Let’s get started!
 
-## Places To Post Your Startup
+## 📣 Places To Post Your Startup
 Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
 
 Launch platforms:
@@ -66,7 +66,7 @@ Subreddits (always check the rules before posting anything):
 
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
 
-## Social Media Marketing
+## 📷 Social Media Marketing
 Managing multiple accounts across all social media platforms can be pretty intense (there’s a reason why it’s a full-time job), however there are a couple of strategies worth trying: building in public and social listening.
 
 **Building in Public** - it’s the easiest social media tactic. In a nutshell, it’s about using your personal profile to share expertise, product updates, and behind-the-scenes content:
@@ -81,7 +81,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [F5 bot](https://f5bot.com/) free tool to track mentions on Hacker News and Reddit
 - [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) to brainstorm keywords to track
 
-## Sales & Cold Outreach
+## ❄ Sales & Cold Outreach
 Most people hate cold outreach and everything connected with direct sales. Yes, depending on your approach, it might be hard to scale and time-intensive, but cold emails and DMs are the most straightforward way to get in touch with potential users and collect precious early-stage feedback.
 
 So, how can you find people on target? What should you write in your messages? And how can you scale cold outreach?
@@ -100,7 +100,7 @@ Here are a few ideas:
 - [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
 - [The $1,000 cold email alternative that's breaking B2B sales](https://www.marketingideas.com/p/the-1000-cold-email-alternative-thats)
 
-## SEO
+## 📈 SEO
 Should you focus on SEO in the early days of your startup? Probably not, SEO takes time (and backlinks), but this doesn’t mean you should neglect it either.
 
 SEO is the foundation for many startups, and it can get you a steady source of traffic without having to spend anything other than the time to do it.
@@ -118,7 +118,7 @@ These guides and tips will help you get started:
 **PS.** if you're new to SEO don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
 
 
-## Email Marketing
+## 💌 Email Marketing
 Email marketing can help you with almost anything: onboarding new users, boosting free-to-paid conversions, promoting affiliate/referral programs, and collecting feedback. Plus, it’s often your only option to engage users outside of your product.
 
 - [The SaaS Email Marketing Playbook](https://saasplaybook.co/)
@@ -138,7 +138,7 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - [A how-to guide for writing original content that works](https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
 - [The Ultimate Content Marketing Programs Guide for SaaS](https://www.mrrunlocked.com/p/the-ultimate-content-marketing-guide)
 
-## Ads
+## 💸 Ads
 Every startup will think about adding a paid channel to their marketing strategy sooner or later and Ads are one of the best ways to accelerate user acquisition.
 
 Here are a few guides to help you avoid burning through your budget before getting any return:
@@ -148,7 +148,7 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [The guide to advertise your SaaS & Software on Facebook](https://makerads.guide/)
 - [How to SPY on your competitor’s successful ads](https://www.marketingideas.com/p/track-competitor-tactics)
 
-## Influencer Marketing
+## 👩‍🏫 Influencer Marketing
 Going where the audience is is the first rule of marketing. That’s why partnering with content creators and influencers can help you grow your startup and connect directly with customers.
 
 However, online advice on influencer marketing is often bad and outdated, so let’s take a look at a few firsthand experiences:
