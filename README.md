@@ -9,26 +9,28 @@ While there’s a ton of advice out there, most of the time it's about scaling s
 
 Inspirational? Sure. Actionable? Not really.
 
-This is why you’ll find here a practical collection of tips, resources, and some tools to help you:
+This is why you’ll find here a practical collection of guides, tips, and some tools to help you:
 - find the first few users for your startup
 - promote your project without a budget
 - scale your marketing activities
+<br/><br/><br/>
 
-Ready to get started? Just pick a topic:
+**Ready to get started? Just pick a topic:**
 - [📣 Places To Post Your Startup](#-places-to-post-your-startup)
 - [📷 Social Media Marketing](#-social-media-marketing)
-- [❄ Sales & Cold Outreach]()
-- [📈 SEO]
-- [💌 Email Marketing]
-- 🧲 Content Marketing
-- 💸 Ads
-- 👩‍🏫 Influencer Marketing
+- [❄ Sales & Cold Outreach](#-sales--cold-outreach)
+- [📈 SEO](#-seo)
+- [💌 Email Marketing](#-email-marketing)
+- [🧲 Content Marketing](#-content-marketing)
+- [💸 Ads](#-ads)
+- [👩‍🏫 Influencer Marketing](#-influencer-marketing)
 - _more coming soon_
 
+<br/><br/><br/>
 ## 📣 Places To Post Your Startup
 Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
 
-Launch platforms:
+**Launch platforms:**
 - [Betalist](https://betalist.com/)
 - [Fazier](https://fazier.com/)
 - [Uneed](https://www.uneed.best/)
@@ -39,7 +41,7 @@ Launch platforms:
 - [ProductHunt](https://www.producthunt.com/) - use this [guide](https://socialgrowthlab.notion.site/Engaging-your-network-for-a-Product-Hunt-Launch-fc37ed8746ba46ee914bc24e46d92dbd) to plan your launch
 - [SideProjectors](https://www.sideprojectors.com/)
 
-Software directories:
+**Software directories:**
 - [Toolfolio](https://toolfolio.io/)
 - [toools.design](https://www.toools.design/)
 - [OpenAlternative](https://openalternative.co/)
@@ -51,7 +53,7 @@ Software directories:
 - [There's an ai for that](https://theresanaiforthat.com/)
 - [Alternativeto](https://alternativeto.net/)
 
-Lifetime deals platforms & groups:
+**Lifetime deals platforms & groups:**
 - [AppSumo](https://appsumo.com/)
 - [RocketHub](https://www.rockethub.com/)
 - [StackSocial](https://www.stacksocial.com/)
@@ -61,7 +63,7 @@ Lifetime deals platforms & groups:
 - [KEN Moo](https://www.facebook.com/groups/1057623338043525)
 - [Lifetimo](https://www.facebook.com/groups/1872282809691807)
 
-Subreddits (always check the rules before posting anything):
+**Subreddits (always check the rules before posting anything):**
 - [Sideproject](https://www.reddit.com/r/SideProject/)
 - [Selfhosted](https://www.reddit.com/r/selfhosted/)
 - [Webdev](https://www.reddit.com/r/webdev/)
@@ -73,12 +75,13 @@ Subreddits (always check the rules before posting anything):
 - [Startups](https://www.reddit.com/r/startups/)
 - [EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)
 
-**PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).
-
+**PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
 
+<br/><br/><br/>
+
 ## 📷 Social Media Marketing
-Managing multiple accounts across all social media platforms can be pretty intense (there’s a reason why it’s a full-time job), however there are a couple of strategies worth trying: building in public and social listening.
+Managing multiple accounts across all social media platforms can be pretty intense (there’s a reason why it’s a full-time job); however, there are a couple of strategies worth trying: building in public and social listening.
 
 **Building in Public** - it’s the easiest social media tactic. In a nutshell, it’s about using your personal profile to share expertise, product updates, and behind-the-scenes content:
 - [How to Build in Public as a Founder](https://www.failory.com/blog/building-in-public)
@@ -89,8 +92,10 @@ Managing multiple accounts across all social media platforms can be pretty inten
 **Social listening** - tracking and joining online conversations on topics related to your Startup is pretty helpful to get in touch with users and learn more about them:
 - [Social Listening: Identifying High-Intent Mentions to Grow Your SaaS](https://www.mrrunlocked.com/p/social-listening-guide)
 - [Sample set-up from Simple Analytics](https://1millionarr.substack.com/p/part-1-how-to-get-your-first-100)
-- [F5 bot](https://f5bot.com/) free tool to track mentions on Hacker News and Reddit
-- [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) to brainstorm keywords to track
+- [F5 bot](https://f5bot.com/) - a free tool to track mentions on Hacker News and Reddit
+- [BOFU Keyword Ideas](https://x.com/nicolasmerouze/status/1749721790950019179) - to brainstorm keywords to track
+
+<br/><br/><br/>
 
 ## ❄ Sales & Cold Outreach
 Most people hate cold outreach and everything connected with direct sales. Yes, depending on your approach, it might be hard to scale and time-intensive, but cold emails and DMs are the most straightforward way to get in touch with potential users and collect precious early-stage feedback.
@@ -111,6 +116,8 @@ Here are a few ideas:
 - [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
 - [The $1,000 cold email alternative that's breaking B2B sales](https://www.marketingideas.com/p/the-1000-cold-email-alternative-thats)
 
+<br/><br/><br/>
+
 ## 📈 SEO
 Should you focus on SEO in the early days of your startup? Probably not, SEO takes time (and backlinks), but this doesn’t mean you should neglect it either.
 
@@ -126,8 +133,9 @@ These guides and tips will help you get started:
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
 
-**PS.** if you're new to SEO don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
+**PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
 
+<br/><br/><br/>
 
 ## 💌 Email Marketing
 Email marketing can help you with almost anything: onboarding new users, boosting free-to-paid conversions, promoting affiliate/referral programs, and collecting feedback. Plus, it’s often your only option to engage users outside of your product.
@@ -140,6 +148,8 @@ Email marketing can help you with almost anything: onboarding new users, boostin
 - [SaaS Email Examples on Userlist's blog](https://userlist.com/blog/email-examples/)
 - [Email examples on Encharge's blog](https://encharge.io/?post_type=post&s=examples)
 
+<br/><br/><br/>
+
 ## 🧲 Content Marketing
 Just like SEO, content marketing is one of the first growth levers to pull for a startup. This time, instead of creating content to praise search engines, you’ll be sharing it where your audience hangs out and hijacking trends for free exposure:
 - [Getting PR for your SaaS](https://1millionarr.substack.com/p/getting-pr-for-your-saas)
@@ -148,6 +158,8 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - [The Reddit Marketing Guide](https://spacestationlabs.notion.site/The-Reddit-Marketing-Guide-16c6915e04af8063aa38e7af3fa2577d)
 - [A how-to guide for writing original content that works](https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
 - [The Ultimate Content Marketing Programs Guide for SaaS](https://www.mrrunlocked.com/p/the-ultimate-content-marketing-guide)
+
+<br/><br/><br/>
 
 ## 💸 Ads
 Every startup will think about adding a paid channel to their marketing strategy sooner or later and Ads are one of the best ways to accelerate user acquisition.
@@ -159,6 +171,8 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [The guide to advertise your SaaS & Software on Facebook](https://makerads.guide/)
 - [How to SPY on your competitor’s successful ads](https://www.marketingideas.com/p/track-competitor-tactics)
 
+<br/><br/><br/>
+
 ## 👩‍🏫 Influencer Marketing
 Going where the audience is is the first rule of marketing. That’s why partnering with content creators and influencers can help you grow your startup and connect directly with customers.
 
@@ -166,5 +180,7 @@ However, online advice on influencer marketing is often bad and outdated, so let
 - [Should Influencers be part of your GTM Strategy?](https://knowledge.gtmstrategist.com/p/should-influencers-be-part-of-your)
 - [Short Form Playbook from Jenny AI](https://www.starterstory.com/10m-playbook?utm_source=youtube&utm_campaign=10msaasplaybook) (also watch this [video](https://www.youtube.com/watch?v=KcCnqLBhvXY))
 - [How Clerk Partners with YouTube’s Dev Community](https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes)
+
+<br/><br/><br/>
 
 
