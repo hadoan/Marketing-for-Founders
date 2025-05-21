@@ -1,6 +1,8 @@
 # Marketing for Founders
-**TL;DR: This is a hyper-practical collection of resources to help founders promote their startups.**
-
+_**TL;DR: This is a hyper-practical collection of marketing resources for founders looking to grow their startup.**_
+\
+\
+\
 Let’s face it. Marketing is tough, especially if you’re a technical founder moving the first steps with your startup.
 
 While there’s a ton of advice out there, most of the time it's about scaling some VC-funded startup with a big marketing budget to $1,000,000 ARR and 100,000 users.
@@ -12,7 +14,16 @@ This is why you’ll find here a practical collection of tips, resources, and so
 - promote your project without a budget
 - scale your marketing activities
 
-Let’s get started!
+Ready to get started? Just pick a topic:
+- [📣 Places To Post Your Startup](#-places-to-post-your-startup)
+- [📷 Social Media Marketing](#-social-media-marketing)
+- [❄ Sales & Cold Outreach]()
+- [📈 SEO]
+- [💌 Email Marketing]
+- 🧲 Content Marketing
+- 💸 Ads
+- 👩‍🏫 Influencer Marketing
+- _more coming soon_
 
 ## 📣 Places To Post Your Startup
 Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
@@ -129,7 +140,7 @@ Email marketing can help you with almost anything: onboarding new users, boostin
 - [SaaS Email Examples on Userlist's blog](https://userlist.com/blog/email-examples/)
 - [Email examples on Encharge's blog](https://encharge.io/?post_type=post&s=examples)
 
-## Content Marketing
+## 🧲 Content Marketing
 Just like SEO, content marketing is one of the first growth levers to pull for a startup. This time, instead of creating content to praise search engines, you’ll be sharing it where your audience hangs out and hijacking trends for free exposure:
 - [Getting PR for your SaaS](https://1millionarr.substack.com/p/getting-pr-for-your-saas)
 - [The storytelling hack for 10x buzz on Reddit](https://www.marketingideas.com/p/the-storytelling-hack-for-10x-buzz)
