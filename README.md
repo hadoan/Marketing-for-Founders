@@ -183,4 +183,9 @@ However, online advice on influencer marketing is often bad and outdated, so let
 
 <br/><br/><br/>
 
+## 👨‍💻 About
+This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa & Ahmed!) and is created and maintained by Edoardo Stradella ([Twitter/X](https://x.com/e_stradella)). <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
+
+_**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on X](https://x.com/e_stradella)**_
+
 
