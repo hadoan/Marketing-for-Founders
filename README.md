@@ -24,7 +24,10 @@ This is why you’ll find here a practical collection of guides, tips, and some 
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
 - [👩‍🏫 Influencer Marketing](#-influencer-marketing)
-- _more coming soon_
+- [🎯 Landing Pages, Messaging and Positioning](#-landing-pages-messaging-and-positioning) _**NEW!**_
+- [🎰 Pricing](#-pricing) _**NEW!**_
+- 💡 Idea Validation - coming soon
+- ⚗ User Research - coming soon
 
 <br/><br/><br/>
 ## 📣 Places To Post Your Startup
@@ -74,6 +77,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 - [Alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/)
 - [Startups](https://www.reddit.com/r/startups/)
 - [EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)
+- [BuyFromEU](https://www.reddit.com/r/BuyFromEU/)
 
 **PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
@@ -86,8 +90,9 @@ Managing multiple accounts across all social media platforms can be pretty inten
 **Building in Public** - it’s the easiest social media tactic. In a nutshell, it’s about using your personal profile to share expertise, product updates, and behind-the-scenes content:
 - [How to Build in Public as a Founder](https://www.failory.com/blog/building-in-public)
 - [The Ultimate Founder-Led LinkedIn Guide](https://www.mrrunlocked.com/p/founder-led-linkedin-guide)
-- [The no-budget marketing strategy every founder needs](https://www.marketingideas.com/p/should-you-be-doing-founder-marketing)
 - [LinkedIn CEO/Founder playbook](https://www.markepear.dev/blog/linkedin-ceo-founder-playbook)
+- [Turn Building in Public into your most profitable GTM channel](https://knowledge.gtmstrategist.com/p/turn-building-in-public-into-your)
+- [How to market to developers on Twitter](https://www.markepear.dev/blog/developer-marketing-twitter)
 
 **Social listening** - tracking and joining online conversations on topics related to your Startup is pretty helpful to get in touch with users and learn more about them:
 - [Social Listening: Identifying High-Intent Mentions to Grow Your SaaS](https://www.mrrunlocked.com/p/social-listening-guide)
@@ -105,8 +110,6 @@ Here are a few ideas:
 - [The Ultimate Framework to build your Ideal Customer Profile](https://www.mrrunlocked.com/p/framework-ideal-customer-profile)
 - [Before there is Ideal, there is Early (Customer Profile)](https://knowledge.gtmstrategist.com/p/before-there-is-ideal-there-is-early)
 - [How to do startup sales with no experience](https://posthog.com/founders/startup-sales-strategy)
-- [The privacy policy secret to find your competitor’s customers](https://www.marketingideas.com/p/how-to-find-your-competitors-customers)
-- [A bulletproof way to acquire more customers: ‘Brute Force Marketing’](https://www.marketingideas.com/p/a-bulletproof-way-to-acquire-more)
 - [The Cold Outbound Handbook](https://www.za-zu.com/handbook/intro)
 - [The ultimate guide to setting up a cold email growth system](https://coldstartblueprint.com/p/cold-email-setup)
 - [The cold email that started ConvertKit](https://x.com/natiakourdadze/status/1799848364042854856)
@@ -114,7 +117,9 @@ Here are a few ideas:
 - [Sales emails examples from top companies](https://goodsalesemails.com/)
 - [Got saas clients doing this strategy](https://www.reddit.com/r/SaaS/comments/1jnlllj/got_saas_clients_doing_this_strategy_so_i_turned/)
 - [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
-- [The $1,000 cold email alternative that's breaking B2B sales](https://www.marketingideas.com/p/the-1000-cold-email-alternative-thats)
+- [A 6-step framework to grow sales as a founder](https://www.growthunhinged.com/p/founder-led-sales-framework)
+- [Examples of proven sales plays to create a sales pipeline](https://www.elenaverna.com/p/examples-of-proven-sales-plays-to)
+- [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
 
 <br/><br/><br/>
 
@@ -180,6 +185,41 @@ However, online advice on influencer marketing is often bad and outdated, so let
 - [Should Influencers be part of your GTM Strategy?](https://knowledge.gtmstrategist.com/p/should-influencers-be-part-of-your)
 - [Short Form Playbook from Jenny AI](https://www.starterstory.com/10m-playbook?utm_source=youtube&utm_campaign=10msaasplaybook) (also watch this [video](https://www.youtube.com/watch?v=KcCnqLBhvXY))
 - [How Clerk Partners with YouTube’s Dev Community](https://playbooks.hypergrowthpartners.com/p/how-clerk-partners-with-youtubes)
+
+<br/><br/><br/>
+
+## 🎯 Landing Pages, Messaging and Positioning
+Most startup websites are ineffective. They fail to tell who the product is for, what the product does, and why it is better. This means confused visitors, poor conversion rates, and wasted marketing $$$.
+
+Here are a few resources to turn your website into a sales and marketing asset:
+- [How to create a more effective homepage](https://newsletter.mkt1.co/p/homepage-copy)
+- [The only SaaS homepage framework you need](https://www.growthunhinged.com/p/how-to-write-a-saas-homepage)
+- [How to create a high-converting SaaS homepage](https://www.mrrunlocked.com/p/how-to-high-converting-saas-homepage)
+- [The definitive product positioning framework](https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://www.growthunhinged.com/p/how-to-differentiate-your-product)
+- [How to create value proposition for developer tools](https://www.markepear.dev/blog/value-proposition-developer-tools)
+- [The Ultimate SaaS Messaging Framework for early-stage Startups](https://www.mrrunlocked.com/p/the-ultimate-saas-messaging-framework)
+- [Use Social Proof To Elevate Your GTM Efforts](https://knowledge.gtmstrategist.com/p/use-social-proof-to-elevate-gtm-strategy)
+- [The Ultimate Guide on Case Studies & Testimonials](https://www.mrrunlocked.com/p/guide-case-studies)
+- [The DNA of a Great Pricing Page](https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page)
+- [How to optimize your pricing page](https://www.growthunhinged.com/p/how-to-optimize-your-pricing-page)
+- [How to create an effective pricing page](https://newsletter.mkt1.co/p/pricing-page-examples)
+
+<br/><br/><br/>
+
+## 🎰 Pricing
+_“Your product delivers the value added to target customers; with pricing, we capture added value back to build a sustainable business.”_
+
+Confused? You’re not alone. Pricing and business model are the toughest things to crack for a startup.
+
+Here are a few frameworks to get your price right:
+- [Pricing: From WTF to WTP (Willingness to Pay)](https://knowledge.gtmstrategist.com/p/pricing-from-wtf-to-willingness-to-pay)
+- [The Ultimate B2B SaaS Pricing Guide for early-stage startups](https://www.mrrunlocked.com/p/the-ultimate-b2b-saas-pricing-guide)
+- [Your guide to price testing](https://www.growthunhinged.com/p/your-guide-to-price-testing)
+- [Are you leaving too much money on the table?](https://knowledge.gtmstrategist.com/p/are-you-leaving-too-much-money-on)
+- [How to have "the pricing talk" with your customers](https://www.growthunhinged.com/p/your-guide-to-finally-talking-to)
+- [The state of SaaS pricing](https://www.growthunhinged.com/p/the-state-of-usage-based-pricing)
+- [Your guide to reverse trials](https://www.growthunhinged.com/p/your-guide-to-reverse-trials)
+- [8 fundamentals about free trials for early stage PLG startups](https://www.mrrunlocked.com/p/free-trials-fundamentals)
 
 <br/><br/><br/>
 
