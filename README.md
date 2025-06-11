@@ -29,6 +29,7 @@ This is why you’ll find here a practical collection of guides, tips, and some 
 - 💡 Idea Validation - coming soon
 - ⚗ User Research - coming soon
 
+_**PS. Leave me a star ⭐ if you find this useful!**_
 <br/><br/><br/>
 ## 📣 Places To Post Your Startup
 Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
@@ -228,4 +229,5 @@ This was inspired by [Marketing for Engineers](https://github.com/goabstract/Mar
 
 _**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on X](https://x.com/e_stradella)**_
 
+[![Fazier badge](https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=featured&theme=neutral)](https://fazier.com)
 
