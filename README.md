@@ -10,9 +10,9 @@ While there’s a ton of advice out there, most of the time it's about scaling s
 Inspirational? Sure. Actionable? Not really.
 
 This is why you’ll find here a practical collection of guides, tips, and some tools to help you:
-- find the first few users for your startup
-- promote your project without a budget
-- scale your marketing activities
+- 🎯 find the first few users for your startup
+- 📣 promote your project without a budget
+- 🚀 scale your marketing activities
 <br/><br/><br/>
 
 **Ready to get started? Just pick a topic:**
@@ -24,10 +24,11 @@ This is why you’ll find here a practical collection of guides, tips, and some 
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
 - [👩‍🏫 Influencer Marketing](#-influencer-marketing)
-- [🎯 Landing Pages, Messaging and Positioning](#-landing-pages-messaging-and-positioning) _**NEW!**_
-- [🎰 Pricing](#-pricing) _**NEW!**_
+- [🎯 Landing Pages, Messaging and Positioning](#-landing-pages-messaging-and-positioning)
+- [🎰 Pricing](#-pricing)
 - 💡 Idea Validation - coming soon
 - ⚗ User Research - coming soon
+- [🧨 Other resources](#-other-resources) _**NEW!**_
 
 _**PS. Leave me a star ⭐ if you find this useful!**_
 <br/><br/><br/>
@@ -49,6 +50,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 - [Toolfolio](https://toolfolio.io/)
 - [toools.design](https://www.toools.design/)
 - [OpenAlternative](https://openalternative.co/)
+- [LibHunt](https://www.libhunt.com/)
 - [SaaSHub](https://www.saashub.com/)
 - [SaaS Genius](https://www.saasgenius.com/free-listing)
 - [G2](https://www.g2.com/)
@@ -110,9 +112,11 @@ So, how can you find people on target? What should you write in your messages? A
 Here are a few ideas:
 - [The Ultimate Framework to build your Ideal Customer Profile](https://www.mrrunlocked.com/p/framework-ideal-customer-profile)
 - [Before there is Ideal, there is Early (Customer Profile)](https://knowledge.gtmstrategist.com/p/before-there-is-ideal-there-is-early)
+- [B2B Ideal Customer Profile Template](https://miro.com/miroverse/ideal-customer-profile-b2b-persona/)
 - [How to do startup sales with no experience](https://posthog.com/founders/startup-sales-strategy)
 - [The Cold Outbound Handbook](https://www.za-zu.com/handbook/intro)
 - [The ultimate guide to setting up a cold email growth system](https://coldstartblueprint.com/p/cold-email-setup)
+- [The Best Outbound Tech Stack for Early-Stage Startups](https://www.mrrunlocked.com/p/the-best-outbound-tech-stack)
 - [The cold email that started ConvertKit](https://x.com/natiakourdadze/status/1799848364042854856)
 - [Tally's early-stage DM strategy](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F539f6356-1e1e-4e84-90c5-57db187e532d_1600x981.png) - you can find the full story [here](https://knowledge.gtmstrategist.com/p/tallys-bootstrapped-journey-to-500000-users)
 - [Sales emails examples from top companies](https://goodsalesemails.com/)
@@ -121,6 +125,7 @@ Here are a few ideas:
 - [A 6-step framework to grow sales as a founder](https://www.growthunhinged.com/p/founder-led-sales-framework)
 - [Examples of proven sales plays to create a sales pipeline](https://www.elenaverna.com/p/examples-of-proven-sales-plays-to)
 - [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
+- [How to create a high-converting Sales Deck](https://www.mrrunlocked.com/p/high-converting-sales-deck)
 
 <br/><br/><br/>
 
@@ -138,6 +143,7 @@ These guides and tips will help you get started:
 - [Use-case-led SEO: A strategy for sustainable organic growth](https://playbooks.hypergrowthpartners.com/p/use-case-led-seo-a-strategy-for-organic)
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
+- [SEO for LLMs and AI search](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
 
@@ -153,6 +159,9 @@ Email marketing can help you with almost anything: onboarding new users, boostin
 - [Onboarding Email concepts](https://www.figma.com/community/file/1207279330099591674/onboarding-emails-25-concepts)
 - [SaaS Email Examples on Userlist's blog](https://userlist.com/blog/email-examples/)
 - [Email examples on Encharge's blog](https://encharge.io/?post_type=post&s=examples)
+- [Behavior-based Email Marketing for B2B SaaS](https://encharge.notion.site/Course-Behavior-based-Email-Marketing-for-B2B-SaaS-18373064882b80ee84dffbe869883eab)
+- [15 SaaS Email Flows Ideas](https://www.mailmodo.com/email-flow/saas-email-flow/)
+- [How to optimize an email automation](https://copyhackers.com/2025/03/how-to-optimize-an-email/)
 
 <br/><br/><br/>
 
@@ -164,6 +173,8 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - [The Reddit Marketing Guide](https://spacestationlabs.notion.site/The-Reddit-Marketing-Guide-16c6915e04af8063aa38e7af3fa2577d)
 - [A how-to guide for writing original content that works](https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
 - [The Ultimate Content Marketing Programs Guide for SaaS](https://www.mrrunlocked.com/p/the-ultimate-content-marketing-guide)
+- [How to effectively create content for developers](https://www.markepear.dev/blog/developer-content-marketing)
+- A behind the scenes look at MKT1's content strategy [part 1](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-1) and [part 2](https://newsletter.mkt1.co/p/mkt1-content-strategy-part-2)
 
 <br/><br/><br/>
 
@@ -198,6 +209,7 @@ Here are a few resources to turn your website into a sales and marketing asset:
 - [How to create a high-converting SaaS homepage](https://www.mrrunlocked.com/p/how-to-high-converting-saas-homepage)
 - [The definitive product positioning framework](https://www.growthunhinged.com/p/product-positioning-part-one) and [How to differentiate your product](https://www.growthunhinged.com/p/how-to-differentiate-your-product)
 - [How to create value proposition for developer tools](https://www.markepear.dev/blog/value-proposition-developer-tools)
+- [Developer product positioning and messaging examples that slap](https://devpmm.substack.com/p/developer-product-positioning-and-messaging-examples-that-slap)
 - [The Ultimate SaaS Messaging Framework for early-stage Startups](https://www.mrrunlocked.com/p/the-ultimate-saas-messaging-framework)
 - [Use Social Proof To Elevate Your GTM Efforts](https://knowledge.gtmstrategist.com/p/use-social-proof-to-elevate-gtm-strategy)
 - [The Ultimate Guide on Case Studies & Testimonials](https://www.mrrunlocked.com/p/guide-case-studies)
@@ -221,6 +233,19 @@ Here are a few frameworks to get your price right:
 - [The state of SaaS pricing](https://www.growthunhinged.com/p/the-state-of-usage-based-pricing)
 - [Your guide to reverse trials](https://www.growthunhinged.com/p/your-guide-to-reverse-trials)
 - [8 fundamentals about free trials for early stage PLG startups](https://www.mrrunlocked.com/p/free-trials-fundamentals)
+- [14 tactical ideas for selling annual plans](https://www.growthunhinged.com/p/how-to-sell-annual-plans)
+
+<br/><br/><br/>
+
+## 🧨 Other resources
+- [100+ Growth Hacks for SaaS](https://mikestrives.notion.site/Growth-Hacks-for-SaaS-100-14252caf2e828076a1afefd80505b19e)
+- [GitHub Search Engine Optimization (SEO): how to rank your repository in GitHub search](https://www.markepear.dev/blog/github-search-engine-optimization)
+- [How today’s biggest consumer products got their first 1,000 users](https://www.lennysnewsletter.com/p/consumer-business-find-first-users)
+- [B2B startup marketing for noobs, by noobs](https://posthog.com/newsletter/b2b-startup-marketing-strategy)
+- [Developer marketing guide (by a dev tool startup CMO)](https://www.markepear.dev/blog/developer-marketing-guide)
+- [How we got our first 1,000 users by PostHog](https://posthog.com/founders/first-1000-users)
+- [Your guide to quick wins in SaaS marketing](https://www.growthunhinged.com/p/your-guide-to-quick-wins-in-saas)
+- [The Product-Market Fit Game](https://posthog.com/founders/product-market-fit-game)
 
 <br/><br/><br/>
 
