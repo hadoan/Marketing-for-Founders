@@ -56,7 +56,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 - [G2](https://www.g2.com/)
 - [TrustPilot](https://www.trustpilot.com/)
 - [Capterra](https://www.capterra.com/)
-- [There's an ai for that](https://theresanaiforthat.com/)
+- [There's an AI for that](https://theresanaiforthat.com/)
 - [Alternativeto](https://alternativeto.net/)
 
 **Lifetime deals platforms & groups:**
@@ -94,6 +94,7 @@ Managing multiple accounts across all social media platforms can be pretty inten
 - [How to Build in Public as a Founder](https://www.failory.com/blog/building-in-public)
 - [The Ultimate Founder-Led LinkedIn Guide](https://www.mrrunlocked.com/p/founder-led-linkedin-guide)
 - [LinkedIn CEO/Founder playbook](https://www.markepear.dev/blog/linkedin-ceo-founder-playbook)
+- [6 hacks to get the most out of LinkedIn](https://www.growthunhinged.com/p/guide-to-mastering-linkedin)
 - [Turn Building in Public into your most profitable GTM channel](https://knowledge.gtmstrategist.com/p/turn-building-in-public-into-your)
 - [How to market to developers on Twitter](https://www.markepear.dev/blog/developer-marketing-twitter)
 
@@ -137,7 +138,6 @@ SEO is the foundation for many startups, and it can get you a steady source of t
 These guides and tips will help you get started:
 - [The Ultimate SEO Guide for Early-Stage SaaS](https://www.mrrunlocked.com/p/the-saas-seo-guide)
 - [How to Prioritize SEO in Early-Stage Startups and MVP Development](https://www.reddit.com/r/ycombinator/comments/1awnckg/comment/krkpxnu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-- [The "evil genius" way to steal customers from competitors](https://www.marketingideas.com/p/the-evil-genius-way-to-steal-customers)
 - [SEO strategy from Simple Analytics](https://1millionarr.substack.com/p/part-2-how-to-get-your-first-1000)
 - [Non-obvious SEO advice for startups](https://posthog.com/newsletter/seo-for-startups)
 - [Use-case-led SEO: A strategy for sustainable organic growth](https://playbooks.hypergrowthpartners.com/p/use-case-led-seo-a-strategy-for-organic)
@@ -162,6 +162,7 @@ Email marketing can help you with almost anything: onboarding new users, boostin
 - [Behavior-based Email Marketing for B2B SaaS](https://encharge.notion.site/Course-Behavior-based-Email-Marketing-for-B2B-SaaS-18373064882b80ee84dffbe869883eab)
 - [15 SaaS Email Flows Ideas](https://www.mailmodo.com/email-flow/saas-email-flow/)
 - [How to optimize an email automation](https://copyhackers.com/2025/03/how-to-optimize-an-email/)
+- [How we built our onboarding email flow - PostHog](https://posthog.com/blog/how-we-built-email-onboarding)
 
 <br/><br/><br/>
 
@@ -170,6 +171,7 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 - [Getting PR for your SaaS](https://1millionarr.substack.com/p/getting-pr-for-your-saas)
 - [The storytelling hack for 10x buzz on Reddit](https://www.marketingideas.com/p/the-storytelling-hack-for-10x-buzz)
 - [How to promote your MVP on Reddit](https://refined.so/blog/marketing-on-reddit)
+- [The Best Reddit Marketing Guide for Beginners](https://redreach.ai/reddit-marketing-guide)
 - [The Reddit Marketing Guide](https://spacestationlabs.notion.site/The-Reddit-Marketing-Guide-16c6915e04af8063aa38e7af3fa2577d)
 - [A how-to guide for writing original content that works](https://www.growthunhinged.com/p/you-need-a-better-content-strategy)
 - [The Ultimate Content Marketing Programs Guide for SaaS](https://www.mrrunlocked.com/p/the-ultimate-content-marketing-guide)
@@ -187,6 +189,7 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [How to get started with LinkedIn Ads for early-stage B2B SaaS startups](https://www.mrrunlocked.com/p/how-to-get-started-with-linkedin)
 - [The guide to advertise your SaaS & Software on Facebook](https://makerads.guide/)
 - [How to SPY on your competitor’s successful ads](https://www.marketingideas.com/p/track-competitor-tactics)
+- [250+ DevTool Ads examples](https://www.reo.dev/devtools-ad-examples)
 
 <br/><br/><br/>
 
@@ -240,6 +243,7 @@ Here are a few frameworks to get your price right:
 ## 🧨 Other resources
 - [100+ Growth Hacks for SaaS](https://mikestrives.notion.site/Growth-Hacks-for-SaaS-100-14252caf2e828076a1afefd80505b19e)
 - [GitHub Search Engine Optimization (SEO): how to rank your repository in GitHub search](https://www.markepear.dev/blog/github-search-engine-optimization)
+- [The Ultimate Playbook for Getting More GitHub Stars](https://hackernoon.com/the-ultimate-playbook-for-getting-more-github-stars)
 - [How today’s biggest consumer products got their first 1,000 users](https://www.lennysnewsletter.com/p/consumer-business-find-first-users)
 - [B2B startup marketing for noobs, by noobs](https://posthog.com/newsletter/b2b-startup-marketing-strategy)
 - [Developer marketing guide (by a dev tool startup CMO)](https://www.markepear.dev/blog/developer-marketing-guide)
