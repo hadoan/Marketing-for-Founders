@@ -24,11 +24,14 @@ This is why you’ll find here a practical collection of guides, tips, and some 
 - [🧲 Content Marketing](#-content-marketing)
 - [💸 Ads](#-ads)
 - [👩‍🏫 Influencer Marketing](#-influencer-marketing)
+- [💑 Affiliates and Referrals](#-affiliates-and-referrals) _**NEW!**_
+- [🛠 Free-Tool Marketing](#-free-tool-marketing) _**NEW!**_
 - [🎯 Landing Pages, Messaging and Positioning](#-landing-pages-messaging-and-positioning)
 - [🎰 Pricing](#-pricing)
-- [💡 Idea Validation](#-idea-validation) _**NEW!**_
+- [🔥 Conversion Rate Optimization](#-conversion-rate-optimization) _**NEW!**_
+- [💡 Idea Validation](#-idea-validation)
 - ⚗ User Research - coming soon
-- [🧨 Other resources](#-other-resources) _**NEW!**_
+- [🧨 Other resources](#-other-resources)
 
 _**PS. Leave me a star ⭐ if you find this useful!**_
 <br/><br/><br/>
@@ -208,6 +211,25 @@ However, online advice on influencer marketing is often bad and outdated, so let
 
 <br/><br/><br/>
 
+## 💑 Affiliates and Referrals
+Word-of-mouth is often the main growth driver for bootstrapped startups. Why? Because affiliate and referral programs are easy to set up, cheap (you only pay if the user converts), and build trust and credibility (when users recommend your product, you’re not only getting traffic, but also social proof that it works).
+
+- [10 steps for a great Referral Program](https://thegrowthmind.substack.com/p/10-steps-for-a-great-referral-program)
+- [Your guide to B2B referrals](https://www.growthunhinged.com/p/your-guide-to-b2b-referrals)
+- [Your ultimate guide to affiliate referrals for B2B SaaS](https://www.mrrunlocked.com/p/your-ultimate-guide-to-affiliate-referrals)
+
+<br/><br/><br/>
+
+## 🛠 Free-Tool Marketing
+Free mini tools are your best bet on going viral, generating PR coverage and backlinks, and driving a ton of organic traffic. Plus, it doesn’t feel like marketing (that’s the reason why it’s also called Engineering as Marketing).
+
+- [Mini tools are 10x more powerful than free trials](https://www.marketingideas.com/p/mini-tools-are-10x-more-powerful)
+- [Side Project Marketing: What Is It & How to Do It](https://www.failory.com/blog/side-project-marketing)
+- [Engineering as Marketing (with examples from Hubspot, Shopify & Ahrefs)](https://thegrowthmind.substack.com/p/engineering-as-marketing)
+- [Building Free Tools for Marketing (SEO)](https://dmytrokrasun.com/posts/building-free-tools-for-marketing-seo/)
+
+<br/><br/><br/>
+
 ## 🎯 Landing Pages, Messaging and Positioning
 Most startup websites are ineffective. They fail to tell who the product is for, what the product does, and why it is better. This means confused visitors, poor conversion rates, and wasted marketing $$$.
 
@@ -242,6 +264,17 @@ Here are a few frameworks to get your price right:
 - [Your guide to reverse trials](https://www.growthunhinged.com/p/your-guide-to-reverse-trials)
 - [8 fundamentals about free trials for early stage PLG startups](https://www.mrrunlocked.com/p/free-trials-fundamentals)
 - [14 tactical ideas for selling annual plans](https://www.growthunhinged.com/p/how-to-sell-annual-plans)
+
+<br/><br/><br/>
+
+## 🔥 Conversion Rate Optimization
+Little tweaks can have a huge impact on conversions. Here are a few ideas ready for you to A/B test:
+
+- [Are you making this website mistake?](https://web.archive.org/web/20250210005430/https://www.marketingideas.com/p/are-you-making-this-website-mistake)
+- [Surprising lessons from 20,000 experiments](https://www.growthunhinged.com/p/surprising-lessons-website-conversion)
+- [The most powerful CTA? Hint: It's definitely not "Book a Demo"](https://www.marketingideas.com/p/the-most-powerful-cta)
+- [23% more trial signups after paywall redesign](https://marketingexamples.com/landing-page/blinkist)
+- [One blurry background = 94% more conversions](https://web.archive.org/web/20250319080954/https://www.marketingideas.com/p/my-weirdest-ab-test-blew-everyones)
 
 <br/><br/><br/>
 
