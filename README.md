@@ -33,7 +33,7 @@ This is why you’ll find here a practical collection of guides, tips, and some 
 - ⚗ User Research - coming soon
 - [🧨 Other resources](#-other-resources)
 
-_**PS. Leave me a star ⭐ if you find this useful!**_
+_**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingforfounders) if you find this useful!**_
 <br/><br/><br/>
 ## 📣 Places To Post Your Startup
 Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
@@ -309,4 +309,4 @@ Some ideas are great, but most aren’t worth your time. So, how can you validat
 ## 👨‍💻 About
 This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa & Ahmed!) and is created and maintained by Edoardo Stradella ([Twitter/X](https://x.com/e_stradella)). <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
 
-_**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on X](https://x.com/e_stradella)**_
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21ITHKD)
