@@ -1,5 +1,5 @@
 # Marketing for Founders
-_**TL;DR: This is a hyper-practical collection of marketing resources for founders looking to grow their startup.**_
+_**TL;DR: This is a collection of practical resources to get your first 10/100/1000 users.**_
 \
 \
 \
@@ -9,10 +9,10 @@ While there’s a ton of advice out there, most of the time it's about scaling s
 
 Inspirational? Sure. Actionable? Not really.
 
-This is why you’ll find here a practical collection of guides, tips, and some tools to help you:
-- 🎯 find the first few users for your startup
+This is why you’ll find here practical guides, tips, and some tools to help you:
+- 🎯 find the first users for your startup
 - 📣 promote your project without a budget
-- 🚀 scale your marketing activities
+- 🚀 build your Go-To-Market strategy
 <br/><br/><br/>
 
 **Ready to get started? Just pick a topic:**
@@ -35,6 +35,7 @@ This is why you’ll find here a practical collection of guides, tips, and some 
 
 _**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingforfounders) if you find this useful!**_
 <br/><br/><br/>
+
 ## 📣 Places To Post Your Startup
 Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
 
@@ -84,6 +85,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 - [Startups](https://www.reddit.com/r/startups/)
 - [EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)
 - [BuyFromEU](https://www.reddit.com/r/BuyFromEU/)
+- [Buildinpublic](https://www.reddit.com/r/buildinpublic/)
 
 **PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
@@ -116,8 +118,14 @@ So, how can you find people on target? What should you write in your messages? A
 Here are a few ideas:
 - [The Ultimate Framework to build your Ideal Customer Profile](https://www.mrrunlocked.com/p/framework-ideal-customer-profile)
 - [Before there is Ideal, there is Early (Customer Profile)](https://knowledge.gtmstrategist.com/p/before-there-is-ideal-there-is-early)
+- [Ideal Customer Profile tips from Posthog](https://posthog.com/newsletter/ideal-customer-profile-framework)
+- [How to analyze your early customers to validate your ICP](https://www.mrrunlocked.com/p/analyze-your-icp)
 - [B2B Ideal Customer Profile Template](https://miro.com/miroverse/ideal-customer-profile-b2b-persona/)
 - [How to do startup sales with no experience](https://posthog.com/founders/startup-sales-strategy)
+- [Master LinkedIn Sales Navigator in < 90 min](https://www.mrrunlocked.com/p/linkedin-sales-navigator-guide)
+- [The GTM Outreach Playbook: From Triggers to Demos](https://knowledge.gtmstrategist.com/p/the-gtm-outreach-playbook-from-triggers-to-demos)
+- [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
+- [4 Must-Have Email Templates in SaaS Sales](https://www.mrrunlocked.com/p/the-4-must-have-sales-email-templates)
 - [The Cold Outbound Handbook](https://www.za-zu.com/handbook/intro)
 - [The ultimate guide to setting up a cold email growth system](https://coldstartblueprint.com/p/cold-email-setup)
 - [The Best Outbound Tech Stack for Early-Stage Startups](https://www.mrrunlocked.com/p/the-best-outbound-tech-stack)
@@ -128,7 +136,6 @@ Here are a few ideas:
 - [How Our Client Booked 25+ Meetings & 10+ New Logos Using Clay + YC](https://gtmba.beehiiv.com/p/how-our-client-booked-25-meetings-10-new-logos-using-clay-yc)
 - [A 6-step framework to grow sales as a founder](https://www.growthunhinged.com/p/founder-led-sales-framework)
 - [Examples of proven sales plays to create a sales pipeline](https://www.elenaverna.com/p/examples-of-proven-sales-plays-to)
-- [The Ultimate Guide to Sales Product Demos](https://www.mrrunlocked.com/p/the-ultimate-guide-to-sales-product-demos)
 - [How to create a high-converting Sales Deck](https://www.mrrunlocked.com/p/high-converting-sales-deck)
 
 <br/><br/><br/>
@@ -144,10 +151,13 @@ These guides and tips will help you get started:
 - [SEO strategy from Simple Analytics](https://1millionarr.substack.com/p/part-2-how-to-get-your-first-1000)
 - [Non-obvious SEO advice for startups](https://posthog.com/newsletter/seo-for-startups)
 - [Use-case-led SEO: A strategy for sustainable organic growth](https://playbooks.hypergrowthpartners.com/p/use-case-led-seo-a-strategy-for-organic)
+- [The Future of SEO is User-Generated Content](https://www.elenaverna.com/p/the-future-of-seo-is-user-generated)
 - [The HyperGrowth Partners Guide to AI-powered Programmatic SEO](https://playbooks.hypergrowthpartners.com/p/ai-powered-programmatic-seo)
 - [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) - the SEO course for makers
 - [SEO for LLMs and AI search](https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search)
-- [The Future of SEO is User-Generated Content](https://www.elenaverna.com/p/the-future-of-seo-is-user-generated)
+- [How to get recommended by ChatGPT](https://www.growthunhinged.com/p/get-recommended-by-chatgpt)
+- [A hands-on guide to ranking across AI search engines like ChatGPT, Perplexity, and Google](https://knowledge.gtmstrategist.com/p/how-to-win-the-new-seo-game-ai-search)
+- [How Tally Turned AI into Their Top Acquisition Source](https://justinhammond.substack.com/p/how-tally-turned-ai-into-their-top)
 
 **PS.** If you're new to SEO and don't know where/how to start check out [LearningSEO](https://learningseo.io/) and [The Complete Guide to Programmatic SEO](https://www.withdaydream.com/access/pseo#chapter-one-the-rise-of-programmatic-seo).
 
@@ -196,8 +206,10 @@ Here are a few guides to help you avoid burning through your budget before getti
 - [The No-Fluff LinkedIn Ads Playbook](https://knowledge.gtmstrategist.com/p/the-no-fluff-linkedin-ads-playbook)
 - [How to get started with LinkedIn Ads for early-stage B2B SaaS startups](https://www.mrrunlocked.com/p/how-to-get-started-with-linkedin)
 - [The guide to advertise your SaaS & Software on Facebook](https://makerads.guide/)
+- [Free B2B Ads courses from AdConversion](https://www.adconversion.com/courses)
 - [How to SPY on your competitor’s successful ads](https://www.marketingideas.com/p/track-competitor-tactics)
 - [250+ DevTool Ads examples](https://www.reo.dev/devtools-ad-examples)
+- [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/founders/dev-marketing-paid-ads)
 
 <br/><br/><br/>
 
@@ -217,6 +229,7 @@ Word-of-mouth is often the main growth driver for bootstrapped startups. Why? Be
 - [10 steps for a great Referral Program](https://thegrowthmind.substack.com/p/10-steps-for-a-great-referral-program)
 - [Your guide to B2B referrals](https://www.growthunhinged.com/p/your-guide-to-b2b-referrals)
 - [Your ultimate guide to affiliate referrals for B2B SaaS](https://www.mrrunlocked.com/p/your-ultimate-guide-to-affiliate-referrals)
+- [8 Affiliate & Referral Email Examples](https://pin.it/5BxRb4Zv4)
 
 <br/><br/><br/>
 
