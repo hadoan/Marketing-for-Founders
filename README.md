@@ -1,5 +1,5 @@
 # Marketing for Founders
-_**TL;DR: This is a collection of practical resources to get your first 10/100/1000 users.**_
+_**TL;DR: This is a collection of practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup.**_
 \
 \
 \
@@ -9,14 +9,14 @@ While there’s a ton of advice out there, most of the time it's about scaling s
 
 Inspirational? Sure. Actionable? Not really.
 
-This is why you’ll find here practical guides, tips, and some tools to help you:
+This is why you’ll find here a practical collection of startup resources, tips, and some tools to help you:
 - 🎯 find the first users for your startup
-- 📣 promote your project without a budget
+- 📣 promote your SaaS without a budget
 - 🚀 build your Go-To-Market strategy
 <br/><br/><br/>
 
 **Ready to get started? Just pick a topic:**
-- [📣 Places To Post Your Startup](#-places-to-post-your-startup)
+- [📣 Places To Launch Your Startup](#-places-to-post-your-startup)
 - [📷 Social Media Marketing](#-social-media-marketing)
 - [❄ Sales & Cold Outreach](#-sales--cold-outreach)
 - [📈 SEO](#-seo)
@@ -36,8 +36,8 @@ This is why you’ll find here practical guides, tips, and some tools to help yo
 _**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingforfounders) if you find this useful!**_
 <br/><br/><br/>
 
-## 📣 Places To Post Your Startup
-Launch platforms, software directories, and communities are an easy way to get eyes on your product and a tiny, steady flow of people to your website. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
+## 📣 Places To Launch Your Startup
+Launch platforms, software directories, and communities are an easy way to get the first users for your startup and a tiny, steady flow of people to your SaaS. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
 
 **Launch platforms:**
 - [Betalist](https://betalist.com/)
@@ -47,7 +47,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 - [Peerlist](https://peerlist.io/)
 - [Indie Hackers](https://www.indiehackers.com/products)
 - [Hacker News](https://news.ycombinator.com/show)
-- [ProductHunt](https://www.producthunt.com/) - use this [guide](https://socialgrowthlab.notion.site/Engaging-your-network-for-a-Product-Hunt-Launch-fc37ed8746ba46ee914bc24e46d92dbd) to plan your launch
+- [ProductHunt](https://www.producthunt.com/) - use this [guide](https://socialgrowthlab.notion.site/Engaging-your-network-for-a-Product-Hunt-Launch-fc37ed8746ba46ee914bc24e46d92dbd) to plan your Product Hunt launch
 - [SideProjectors](https://www.sideprojectors.com/)
 
 **Software directories:**
@@ -75,19 +75,28 @@ Launch platforms, software directories, and communities are an easy way to get e
 
 **Subreddits (always check the rules before posting anything):**
 - [Sideproject](https://www.reddit.com/r/SideProject/)
-- [Selfhosted](https://www.reddit.com/r/selfhosted/)
-- [Webdev](https://www.reddit.com/r/webdev/)
+- [Selfhosted](https://www.reddit.com/r/selfhosted/) - use flair "Product Announcement"
+- [Webdev](https://www.reddit.com/r/webdev/) - use flair "Showoff Saturday"
 - [Startup_Ideas](https://www.reddit.com/r/Startup_Ideas/)
-- [Programming](https://www.reddit.com/r/programming/)
+- [Indiehackers](https://www.reddit.com/r/indiehackers/) - use flair "Self Promotion"
 - [Internetisbeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [Roastmystartup](https://www.reddit.com/r/roastmystartup/)
 - [Alphaandbetausers](https://www.reddit.com/r/alphaandbetausers/)
-- [Startups](https://www.reddit.com/r/startups/)
-- [EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)
-- [BuyFromEU](https://www.reddit.com/r/BuyFromEU/)
+- [Iosapps](https://www.reddit.com/r/iosapps/) - use flair "Dev - Self Promotion"
+- [Saasbuild](https://www.reddit.com/r/saasbuild/)
+- [BuyFromEU](https://www.reddit.com/r/BuyFromEU/) - use flair "European Product"
 - [Buildinpublic](https://www.reddit.com/r/buildinpublic/)
+- [Scaleinpublic](https://www.reddit.com/r/scaleinpublic/)
+- [ShowMeYourSaaS](https://www.reddit.com/r/ShowMeYourSaaS/)
+- [DevelopersIndia](https://www.reddit.com/r/developersIndia/) - use flair "I made this"
+- [Androidapps](https://www.reddit.com/r/androidapps/) - use flair "Self Promotion"
+- [iOSProgramming/](https://www.reddit.com/r/iOSProgramming/) - use flair "App Saturday"
+- [MVPLaunch](https://www.reddit.com/r/MVPLaunch/)
+- [Macapps](https://www.reddit.com/r/macapps/)
+- [TheFounders](https://www.reddit.com/r/TheFounders/) - use flair "Show"
+- [Apps](https://www.reddit.com/r/apps/) - use flair "App"
 
-**PS.** You can find more ideas [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
+**PS.** You can find more websites to launch your startup [here](https://docs.google.com/spreadsheets/d/1WAgFtaZno651_6Tw0nmmiYIAsJ3Bm89IRRRQ5helzLY/edit?gid=0#gid=0) (thanks [Sandra](https://x.com/TakoTreba/status/1902662634370932871)) and, if you're running an AI startup, [here](https://github.com/best-of-ai/ai-directories).<br/>
 **PPS.** You can find a few tips for writing a great launch post [here](https://www.markepear.dev/blog/dev-tool-hacker-news-launch).
 
 <br/><br/><br/>
@@ -95,7 +104,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 ## 📷 Social Media Marketing
 Managing multiple accounts across all social media platforms can be pretty intense (there’s a reason why it’s a full-time job); however, there are a couple of strategies worth trying: building in public and social listening.
 
-**Building in Public** - it’s the easiest social media tactic. In a nutshell, it’s about using your personal profile to share expertise, product updates, and behind-the-scenes content:
+**Building in Public** - it’s the easiest social media marketing tactic. In a nutshell, it’s about using your personal profile to share expertise, product updates, and behind-the-scenes content:
 - [How to Build in Public as a Founder](https://www.failory.com/blog/building-in-public)
 - [The Ultimate Founder-Led LinkedIn Guide](https://www.mrrunlocked.com/p/founder-led-linkedin-guide)
 - [LinkedIn CEO/Founder playbook](https://www.markepear.dev/blog/linkedin-ceo-founder-playbook)
@@ -112,10 +121,10 @@ Managing multiple accounts across all social media platforms can be pretty inten
 <br/><br/><br/>
 
 ## ❄ Sales & Cold Outreach
-Most people hate cold outreach and everything connected with direct sales. Yes, depending on your approach, it might be hard to scale and time-intensive, but cold emails and DMs are the most straightforward way to get in touch with potential users and collect precious early-stage feedback.
+Most people hate cold outreach and everything connected with direct sales. Yes, depending on your approach, it might be hard to scale and time-intensive, but cold emails and DMs are the most straightforward way to get in touch with potential users, collect precious early-stage feedback and find the first customers for your startup.
 
 So, how can you find people on target? What should you write in your messages? And how can you scale cold outreach?
-Here are a few ideas:
+Here are a few ideas to set up your SaaS sales strategy:
 - [The Ultimate Framework to build your Ideal Customer Profile](https://www.mrrunlocked.com/p/framework-ideal-customer-profile)
 - [Before there is Ideal, there is Early (Customer Profile)](https://knowledge.gtmstrategist.com/p/before-there-is-ideal-there-is-early)
 - [Ideal Customer Profile tips from Posthog](https://posthog.com/newsletter/ideal-customer-profile-framework)
@@ -201,7 +210,7 @@ Just like SEO, content marketing is one of the first growth levers to pull for a
 ## 💸 Ads
 Every startup will think about adding a paid channel to their marketing strategy sooner or later and Ads are one of the best ways to accelerate user acquisition.
 
-Here are a few guides to help you avoid burning through your budget before getting any return:
+Here are a few guides to help you avoid burning through your budget before getting any return from your Ad campaign:
 - [How to get started with Google Ads for early-stage B2B SaaS startups](https://www.mrrunlocked.com/p/google-ads-guide)
 - [The No-Fluff LinkedIn Ads Playbook](https://knowledge.gtmstrategist.com/p/the-no-fluff-linkedin-ads-playbook)
 - [How to get started with LinkedIn Ads for early-stage B2B SaaS startups](https://www.mrrunlocked.com/p/how-to-get-started-with-linkedin)
