@@ -40,6 +40,7 @@ _**PS. Leave me a star ⭐ or [buy me a beer🍺](https://ko-fi.com/marketingfor
 Launch platforms, software directories, and communities are an easy way to get the first users for your startup and a tiny, steady flow of people to your SaaS. Some of the following may not be relevant for your product, but (hopefully) can give you ideas on what to look for.
 
 **Launch platforms:**
+- https://launchdirectories.com/
 - [Betalist](https://betalist.com/)
 - [Fazier](https://fazier.com/)
 - [Uneed](https://www.uneed.best/)
